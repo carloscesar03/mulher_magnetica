@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Torne-se a Mulher Que Todo Homem Deseja</title>
+    
+    <!-- Fonte Montserrat Exclusiva -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500&display=swap" rel="stylesheet">
+    
+    <!-- Tailwind CSS para Estilização Ágil e Responsiva -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Ícones Lucide -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <!-- Configuração do Tailwind -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Montserrat', 'sans-serif'],
+                    },
+                    colors: {
+                        brand: {
+                            50: '#fff1f2',
+                            100: '#ffe4e6',
+                            500: '#f43f5e',
+                            600: '#e11d48', // Cor principal (Rosa/Vermelho elegante)
+                            700: '#be123c',
+                            900: '#881337',
+                        },
+                        dark: {
+                            900: '#121214',
+                            800: '#202024',
+                            700: '#29292e',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        /* Animação suave para o botão */
+        @keyframes pulse-soft {
+            0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(225, 29, 72, 0.4); }
+            50% { transform: scale(1.02); box-shadow: 0 0 20px 5px rgba(225, 29, 72, 0.3); }
+        }
+        .btn-pulse {
+            animation: pulse-soft 3s infinite;
+        }
+
+        /* Nova Animação para os Botões Verdes (Alta Conversão) */
+        @keyframes pulse-green {
+            0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.4); }
+            50% { transform: scale(1.02); box-shadow: 0 0 20px 5px rgba(34, 197, 94, 0.3); }
+        }
+        .btn-pulse-green {
+            animation: pulse-green 3s infinite;
+        }
+        
+        /* Garantir que tudo use Montserrat */
+        body {
+            font-family: 'Montserrat', sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+    </style>
+</head>
+<body class="bg-white text-gray-900 selection:bg-brand-600 selection:text-white">
+
+    <!-- ==========================================
+         PRIMEIRA DOBRA (Fundo Escuro)
+    =========================================== -->
+    <section class="bg-dark-900 text-white pt-16 pb-20 px-6 lg:pt-24 lg:pb-32 relative overflow-hidden">
+        <!-- Elemento de design de fundo -->
+        <div class="absolute top-0 right-0 -mr-32 -mt-32 w-96 h-96 rounded-full bg-brand-600 opacity-10 blur-3xl"></div>
+        <div class="absolute bottom-0 left-0 -ml-32 -mb-32 w-96 h-96 rounded-full bg-brand-600 opacity-10 blur-3xl"></div>
+
+        <div class="max-w-6xl mx-auto grid lg:grid-cols-2 gap-12 lg:gap-20 items-center relative z-10">
+            
+            <!-- Texto (Copy) -->
+            <div class="order-2 lg:order-1 flex flex-col justify-center">
+                <h1 class="text-3xl sm:text-4xl lg:text-5xl font-black leading-tight mb-6 tracking-tight uppercase">
+                    TORNE-SE A MULHER <span class="text-brand-500">QUE TODO HOMEM DESEJA</span>
+                </h1>
+                
+                <p class="text-lg sm:text-xl font-light text-gray-300 mb-6 leading-relaxed">
+                    Descubra como despertar interesse real, provocar curiosidade e se tornar naturalmente inesquecível.
+                </p>
+                
+                <div class="space-y-2 text-gray-400 font-medium text-lg mb-10 border-l-2 border-brand-500 pl-4">
+                    <p>Sem mudar quem você é.</p>
+                    <p>Sem forçar situações.</p>
+                    <p>Sem correr atrás.</p>
+                </div>
+                
+                <div class="mb-8 flex flex-col sm:flex-row sm:items-end gap-3 sm:gap-6">
+                    <span class="text-gray-500 line-through text-xl font-medium">De R$ 97,00</span>
+                    <span class="text-4xl sm:text-5xl font-bold text-white tracking-tight">Por apenas R$ 17,00</span>
+                </div>
+                
+                <a href="#oferta" class="btn-pulse-green inline-block w-full sm:w-[90%] text-center bg-green-600 hover:bg-green-700 text-white font-black py-5 px-8 rounded-lg shadow-[0_0_20px_rgba(34,197,94,0.3)] transition-all text-lg lg:text-xl uppercase tracking-wider">
+                    QUERO ME TORNAR INESQUECÍVEL
+                </a>
+                
+                <div class="mt-4 flex flex-col sm:items-start items-center gap-2">
+                    <div class="flex items-center gap-2 text-sm text-gray-400 font-medium">
+                        <i data-lucide="shield-check" class="w-5 h-5 text-green-500"></i>
+                        <span>Compra 100% Segura & Acesso Imediato</span>
+                    </div>
+                    <!-- [IMAGEM-01] Placeholder: Selos de Cartão/Pix -->
+                    <img src="https://i.postimg.cc/LsVHTKKJ/xxxcompra_Segura_vetor_branco1_1.png" alt="Formas de Pagamento" class="mt-2 opacity-70 h-8 object-contain">
+                </div>
+            </div>
+            
+            <!-- Imagem Mockup -->
+            <div class="order-1 lg:order-2 relative w-full max-w-md mx-auto lg:max-w-full flex justify-center">
+                <div class="absolute inset-0 border-2 border-brand-600/30 rounded-2xl transform translate-x-4 translate-y-4 hidden lg:block"></div>
+                <!-- [IMAGEM-02] Placeholder: Mockup 3D do E-book (Primeira Dobra) -->
+                <img src="https://i.postimg.cc/XJC6zTtk/Capa_Nova_Torne_se_Sem_Fundo_corte_resize.png" 
+                     alt="E-book Torne-se a Mulher Que Todo Homem Deseja" 
+                     class="relative z-10 w-[80%] lg:w-full max-w-md object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-500">
+            </div>
+        </div>
+    </section>
+
+    <!-- ==========================================
+         IMAGINE A CENA (Fundo Claro)
+    =========================================== -->
+    <section class="py-20 lg:py-28 px-6 bg-white text-center">
+        <div class="max-w-3xl mx-auto">
+            <h2 class="text-2xl sm:text-3xl font-extrabold mb-12 text-dark-900 tracking-widest uppercase">IMAGINE A CENA</h2>
+            
+            <div class="space-y-3 text-xl sm:text-2xl font-light text-gray-600">
+                <p>Você chega.</p>
+                <p>Ele percebe.</p>
+                <p>A conversa flui.</p>
+                <p>O olhar sustenta.</p>
+                <p>Ele se inclina mais perto.</p>
+                <p>Ele presta atenção no que você diz.</p>
+            </div>
+            
+            <div class="mt-12 space-y-3 text-xl sm:text-2xl font-medium text-dark-800">
+                <p>Agora imagine isso se repetindo.</p>
+                <p>Com naturalidade.</p>
+                <p>Sem esforço.</p>
+            </div>
+            
+            <div class="mt-16 text-3xl sm:text-4xl font-black text-brand-600 uppercase tracking-tight">
+                <p class="mb-2">Não é sorte.</p>
+                <p>É posicionamento.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==========================================
+         O QUE VOCÊ VAI DESBLOQUEAR (Fundo Suave/Bege)
+    =========================================== -->
+    <section class="py-20 lg:py-24 px-6 bg-[#FAFAFA] border-y border-gray-100">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-3xl sm:text-4xl font-black mb-14 text-center text-dark-900 tracking-tight uppercase">
+                O QUE VOCÊ VAI DESBLOQUEAR
+            </h2>
+            
+            <div class="space-y-6 lg:space-y-8">
+                <!-- Item 1 -->
+                <div class="flex items-start bg-white p-6 rounded-xl shadow-sm border border-gray-50">
+                    <div class="bg-brand-50 p-2 rounded-full mr-5 shrink-0 mt-1">
+                        <i data-lucide="check" class="w-6 h-6 text-brand-600 border-2 border-brand-600 rounded-full p-1"></i>
+                    </div>
+                    <p class="text-lg sm:text-xl font-medium text-gray-800 leading-relaxed">
+                        Como gerar tensão e curiosidade logo nas primeiras conversas
+                    </p>
+                </div>
+                
+                <!-- Item 2 -->
+                <div class="flex items-start bg-white p-6 rounded-xl shadow-sm border border-gray-50">
+                    <div class="bg-brand-50 p-2 rounded-full mr-5 shrink-0 mt-1">
+                        <i data-lucide="check" class="w-6 h-6 text-brand-600 border-2 border-brand-600 rounded-full p-1"></i>
+                    </div>
+                    <p class="text-lg sm:text-xl font-medium text-gray-800 leading-relaxed">
+                        O jeito certo de responder mensagens para aumentar o interesse
+                    </p>
+                </div>
+                
+                <!-- Item 3 -->
+                <div class="flex items-start bg-white p-6 rounded-xl shadow-sm border border-gray-50">
+                    <div class="bg-brand-50 p-2 rounded-full mr-5 shrink-0 mt-1">
+                        <i data-lucide="check" class="w-6 h-6 text-brand-600 border-2 border-brand-600 rounded-full p-1"></i>
+                    </div>
+                    <p class="text-lg sm:text-xl font-medium text-gray-800 leading-relaxed">
+                        Como sair da posição de “disponível demais” para “difícil de esquecer”
+                    </p>
+                </div>
+                
+                <!-- Item 4 -->
+                <div class="flex items-start bg-white p-6 rounded-xl shadow-sm border border-gray-50">
+                    <div class="bg-brand-50 p-2 rounded-full mr-5 shrink-0 mt-1">
+                        <i data-lucide="check" class="w-6 h-6 text-brand-600 border-2 border-brand-600 rounded-full p-1"></i>
+                    </div>
+                    <p class="text-lg sm:text-xl font-medium text-gray-800 leading-relaxed">
+                        Como fazer ele investir mais tempo e energia naturalmente
+                    </p>
+                </div>
+                
+                <!-- Item 5 -->
+                <div class="flex items-start bg
