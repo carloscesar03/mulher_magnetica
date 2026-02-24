@@ -65,7 +65,7 @@ export default function Offer() {
         <div className="max-w-4xl mx-auto bg-zinc-900 rounded-3xl p-8 lg:p-12 border border-rose-600/30 shadow-[0_0_50px_rgba(225,29,72,0.15)] text-center relative z-10 flex flex-col md:flex-row items-center gap-10">
             
             <div className="w-full md:w-1/2 flex justify-center">
-                <img src="https://i.postimg.cc/ZK486QgZ/Mockup_Torne_se_Completo_Com_Bônus_removebg_preview.webp" alt="Combo Completo" loading="lazy" width="500" height="500" className="w-full max-w-sm object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-500" />
+                <img src="https://i.postimg.cc/xTQHd36D/mockup_combo_oferta_com_bonus_Photoroom.webp" alt="Combo Completo" loading="lazy" width="600" height="450" className="w-full max-w-md object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-500" />
             </div>
 
             <div className="w-full md:w-1/2 text-center md:text-left">

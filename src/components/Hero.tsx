@@ -17,11 +17,11 @@ export default function Hero() {
                 </p>
 
                 <div className="block lg:hidden relative w-full max-w-md mx-auto mb-10 flex justify-center">
-                    <img src="https://i.postimg.cc/5NbB8rrD/Capa_Nova_Torne_se_Sem_Fundo_corte_resize.webp" 
+                    <img src="https://i.postimg.cc/ZKm3qxwk/mockup_combo_1_dobra_Photoroom.webp" 
                          alt="E-book Torne-se a Mulher Que Todo Homem Deseja" 
-                         width="600" height="800"
+                         width="600" height="450"
                          fetchPriority="high"
-                         className="relative z-10 w-[85%] object-contain drop-shadow-2xl" />
+                         className="relative z-10 w-full object-contain drop-shadow-2xl" />
                 </div>
                 
                 <div className="space-y-2 text-gray-400 font-medium text-lg mb-10 border-l-2 border-rose-500 pl-4 w-fit mx-auto lg:mx-0 text-left">
@@ -51,11 +51,11 @@ export default function Hero() {
             </div>
             
             <div className="hidden lg:flex relative w-full max-w-md mx-auto lg:max-w-full justify-center">
-                <img src="https://i.postimg.cc/5NbB8rrD/Capa_Nova_Torne_se_Sem_Fundo_corte_resize.webp" 
+                <img src="https://i.postimg.cc/ZKm3qxwk/mockup_combo_1_dobra_Photoroom.webp" 
                      alt="E-book Torne-se a Mulher Que Todo Homem Deseja" 
-                     width="600" height="800"
+                     width="800" height="600"
                      fetchPriority="high"
-                     className="relative z-10 w-full max-w-md object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-500" />
+                     className="relative z-10 w-full max-w-lg object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-500" />
             </div>
         </div>
     </section>
