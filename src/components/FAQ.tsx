@@ -8,14 +8,19 @@ export default function FAQ() {
             <div className="space-y-4">
                 <details className="group bg-zinc-950 rounded-xl border border-zinc-800 [&_summary::-webkit-details-marker]:hidden">
                     <summary className="flex cursor-pointer items-center justify-between gap-1.5 p-6 text-gray-100 font-bold text-lg">
-                        Como eu vou receber o material?
+                        Isso vai funcionar para o meu caso?
                         <span className="shrink-0 rounded-full bg-zinc-900 p-1.5 text-rose-500 sm:p-3 group-open:bg-rose-600 group-open:text-white transition-colors">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-5 h-5 group-open:hidden"><path d="M5 12h14"/><path d="M12 5v14"/></svg>
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-5 h-5 hidden group-open:block"><path d="M5 12h14"/></svg>
                         </span>
                     </summary>
                     <div className="px-6 pb-6 text-gray-400 font-medium leading-relaxed border-t border-zinc-800 pt-4 mt-2">
-                        Imediatamente após a confirmação do pagamento, você receberá um e-mail com o seu login e senha para acessar a área de membros exclusiva onde o E-book e os Bônus estarão disponíveis para download. Pagamentos via PIX ou Cartão liberam o acesso na mesma hora.
+                        <p className="mb-3">Sim! O método foi desenhado para agir na psicologia masculina, independente do status do relacionamento:</p>
+                        <ul className="space-y-2 list-disc pl-5 text-gray-300">
+                            <li><strong>Se você está solteira:</strong> Vai aprender a filtrar e atrair homens de alto valor desde o primeiro "oi".</li>
+                            <li><strong>Se você está "ficando":</strong> Vai descobrir como fazer ele sentir medo de te perder e pedir exclusividade.</li>
+                            <li><strong>Se você é casada:</strong> Vai reacender o desejo e fazer ele voltar a te olhar com admiração e respeito.</li>
+                        </ul>
                     </div>
                 </details>
 

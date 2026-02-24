@@ -13,7 +13,8 @@ export default function Unlock() {
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-6 h-6 text-rose-600 border-2 border-rose-600 rounded-full p-1"><path d="M20 6 9 17l-5-5"/></svg>
                     </div>
                     <p className="text-lg sm:text-xl font-medium text-gray-800 leading-relaxed">
-                        Como gerar tensão e curiosidade logo nas primeiras conversas
+                        <strong className="text-rose-600 block mb-1">A TÉCNICA DO ESPELHO REVERSO:</strong>
+                        Como inverter o jogo e fazer <em>ele</em> buscar a sua validação (e não o contrário).
                     </p>
                 </div>
                 
@@ -22,7 +23,8 @@ export default function Unlock() {
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-6 h-6 text-rose-600 border-2 border-rose-600 rounded-full p-1"><path d="M20 6 9 17l-5-5"/></svg>
                     </div>
                     <p className="text-lg sm:text-xl font-medium text-gray-800 leading-relaxed">
-                        O jeito certo de responder mensagens para aumentar o interesse
+                        <strong className="text-rose-600 block mb-1">A ARTE DA RESPOSTA MAGNÉTICA:</strong>
+                        O jeito certo de responder mensagens para aumentar o interesse (sem parecer desesperada).
                     </p>
                 </div>
                 
@@ -31,7 +33,8 @@ export default function Unlock() {
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-6 h-6 text-rose-600 border-2 border-rose-600 rounded-full p-1"><path d="M20 6 9 17l-5-5"/></svg>
                     </div>
                     <p className="text-lg sm:text-xl font-medium text-gray-800 leading-relaxed">
-                        Como sair da posição de “disponível demais” para “difícil de esquecer”
+                        <strong className="text-rose-600 block mb-1">A ARMADILHA DA MULHER BOAZINHA:</strong>
+                        Por que ser "disponível demais" mata a atração e como sair dessa posição hoje mesmo.
                     </p>
                 </div>
                 
@@ -40,7 +43,8 @@ export default function Unlock() {
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-6 h-6 text-rose-600 border-2 border-rose-600 rounded-full p-1"><path d="M20 6 9 17l-5-5"/></svg>
                     </div>
                     <p className="text-lg sm:text-xl font-medium text-gray-800 leading-relaxed">
-                        Como fazer ele investir mais tempo e energia naturalmente
+                        <strong className="text-rose-600 block mb-1">A LEI DO ESFORÇO INVERTIDO:</strong>
+                        Como fazer ele investir mais tempo e energia naturalmente em você.
                     </p>
                 </div>
                 
@@ -49,7 +53,8 @@ export default function Unlock() {
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-6 h-6 text-rose-600 border-2 border-rose-600 rounded-full p-1"><path d="M20 6 9 17l-5-5"/></svg>
                     </div>
                     <p className="text-lg sm:text-xl font-medium text-gray-800 leading-relaxed">
-                        Como se tornar a mulher que marca presença sem precisar competir com ninguém
+                        <strong className="text-rose-600 block mb-1">O EFEITO INSUBSTITUÍVEL:</strong>
+                        Como se tornar a mulher que marca presença sem precisar competir com ninguém.
                     </p>
                 </div>
             </div>

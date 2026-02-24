@@ -13,6 +13,13 @@ export default function Difference() {
                 <p>Muitas são interessantes.</p>
             </div>
             
+            <div className="bg-zinc-800/50 p-6 rounded-xl mb-10 border border-rose-500/20">
+                <p className="text-lg text-gray-200 font-medium leading-relaxed">
+                    Você já se perguntou por que a mulher que faz tudo certo muitas vezes termina sozinha, enquanto aquela que parece nem ligar tem a fila de pretendentes? <br/><br/>
+                    <strong className="text-rose-400">A culpa não é sua.</strong> Você foi ensinada a ser a "mulher boazinha". E é exatamente isso que mata a atração.
+                </p>
+            </div>
+            
             <div className="text-2xl sm:text-3xl font-semibold mb-12 text-white">
                 <p className="mb-4">Poucas sabem provocar impacto emocional.</p>
                 <p className="text-rose-400 font-light italic text-xl">Homens se conectam com a sensação que você desperta.</p>

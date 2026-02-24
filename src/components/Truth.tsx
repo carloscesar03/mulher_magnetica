@@ -28,10 +28,17 @@ export default function Truth() {
                 </div>
             </div>
             
-            <p className="text-xl font-light italic text-gray-400 mb-10">Tudo isso ajuda, é claro.</p>
+            <p className="text-xl font-light italic text-gray-400 mb-6">Tudo isso ajuda, é claro.</p>
+            
+            <div className="bg-rose-950/30 border border-rose-900/50 p-6 rounded-xl mb-10">
+                <p className="text-lg text-gray-200 font-medium leading-relaxed">
+                    Mas roupas caras e salão não seguram homem nenhum se a sua postura grita insegurança. <br/>
+                    O custo real não é R$ 17,00. <strong className="text-rose-400">O custo real é continuar investindo tempo e emoção em quem não te prioriza.</strong>
+                </p>
+            </div>
             
             <p className="text-2xl sm:text-3xl font-bold leading-tight mb-12">
-                Mas <span className="text-rose-500 underline decoration-2 underline-offset-4">comportamento e posicionamento</span> são o que realmente definem como você é tratada.
+                <span className="text-rose-500 underline decoration-2 underline-offset-4">Comportamento e posicionamento</span> são o que realmente definem como você é tratada.
             </p>
             
             <div className="inline-block border-2 border-green-500 bg-green-500/10 px-8 py-6 rounded-xl shadow-[0_0_30px_rgba(34,197,94,0.15)]">
