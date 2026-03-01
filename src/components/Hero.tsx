@@ -32,11 +32,11 @@ export default function Hero() {
                 
                 <div className="mb-8 flex flex-col sm:flex-row items-center justify-center lg:justify-start sm:items-end gap-2 sm:gap-6">
                     <span className="text-gray-500 line-through text-xl font-medium">De R$ 97,00</span>
-                    <span className="text-4xl sm:text-5xl font-bold text-white tracking-tight">Por apenas R$ 17,00</span>
+                    <span className="text-4xl sm:text-5xl font-bold text-white tracking-tight">Por apenas R$ 27,00</span>
                 </div>
                 
                 <div className="flex flex-col items-center lg:items-start w-full">
-                    <a href="https://lastlink.com/p/CA5B2A829/checkout-payment/" className="btn-pulse-green inline-block w-full sm:w-[90%] lg:w-[90%] text-center bg-green-600 hover:bg-green-700 text-white font-black py-5 px-8 rounded-lg shadow-[0_0_20px_rgba(34,197,94,0.3)] transition-all text-lg lg:text-xl uppercase tracking-wider">
+                    <a href="https://lastlink.com/p/CC3029EBC/checkout-payment/" className="btn-pulse-green inline-block w-full sm:w-[90%] lg:w-[90%] text-center bg-green-600 hover:bg-green-700 text-white font-black py-5 px-8 rounded-lg shadow-[0_0_20px_rgba(34,197,94,0.3)] transition-all text-lg lg:text-xl uppercase tracking-wider">
                         QUERO ME TORNAR INESQUECÍVEL
                     </a>
                     
