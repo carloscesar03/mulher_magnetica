@@ -19,14 +19,14 @@ export default function Summary() {
             
             <div className="bg-zinc-900 p-8 rounded-2xl border border-zinc-800 mb-12">
                 <p className="text-xl font-medium leading-relaxed">
-                    Por <span className="text-rose-500 font-bold text-2xl">R$ 17,00</span>, você descobre ajustes que podem mudar completamente sua experiência nos relacionamentos.
+                    Por <span className="text-rose-500 font-bold text-2xl">R$ 27,00</span>, você descobre ajustes que podem mudar completamente sua experiência nos relacionamentos.
                 </p>
             </div>
             
             <p className="text-3xl font-black mb-8 uppercase tracking-tight">A decisão está nas suas mãos.</p>
             <p className="text-xl text-gray-300 font-light mb-10">Clique agora e comece hoje.</p>
             
-            <a href="https://lastlink.com/p/CA5B2A829/checkout-payment/" className="btn-pulse-green inline-block w-full sm:w-auto text-center bg-green-600 hover:bg-green-700 text-white font-black py-5 px-12 rounded-lg transition-colors text-lg uppercase tracking-widest shadow-[0_0_20px_rgba(34,197,94,0.3)] mb-6">
+            <a href="https://lastlink.com/p/CC3029EBC/checkout-payment/" className="btn-pulse-green inline-block w-full sm:w-auto text-center bg-green-600 hover:bg-green-700 text-white font-black py-5 px-12 rounded-lg transition-colors text-lg uppercase tracking-widest shadow-[0_0_20px_rgba(34,197,94,0.3)] mb-6">
                 QUERO COMEÇAR AGORA
             </a>
 
