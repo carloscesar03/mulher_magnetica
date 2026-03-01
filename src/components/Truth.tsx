@@ -33,7 +33,7 @@ export default function Truth() {
             <div className="bg-rose-950/30 border border-rose-900/50 p-6 rounded-xl mb-10">
                 <p className="text-lg text-gray-200 font-medium leading-relaxed">
                     Mas roupas caras e salão não seguram homem nenhum se a sua postura grita insegurança. <br/>
-                    O custo real não é R$ 17,00. <strong className="text-rose-400">O custo real é continuar investindo tempo e emoção em quem não te prioriza.</strong>
+                    O custo real não é R$ 27,00. <strong className="text-rose-400">O custo real é continuar investindo tempo e emoção em quem não te prioriza.</strong>
                 </p>
             </div>
             
@@ -43,10 +43,10 @@ export default function Truth() {
             
             <div className="inline-block border-2 border-green-500 bg-green-500/10 px-8 py-6 rounded-xl shadow-[0_0_30px_rgba(34,197,94,0.15)]">
                 <p className="text-xl font-bold text-gray-300 mb-2">O CONHECIMENTO DEFINITIVO POR APENAS:</p>
-                <p className="text-4xl font-black text-green-400 uppercase">R$ 17,00</p>
+                <p className="text-4xl font-black text-green-400 uppercase">R$ 27,00</p>
                 <p className="text-sm font-medium text-green-500 mt-2">Pagamento Único. Sem mensalidades.</p>
                 
-                <a href="https://lastlink.com/p/CA5B2A829/checkout-payment/" className="btn-pulse-green mt-6 inline-block w-full bg-green-600 hover:bg-green-700 text-white font-black py-4 px-8 rounded-lg shadow-[0_0_20px_rgba(34,197,94,0.3)] transition-all text-lg uppercase tracking-wider">
+                <a href="https://lastlink.com/p/CC3029EBC/checkout-payment/" className="btn-pulse-green mt-6 inline-block w-full bg-green-600 hover:bg-green-700 text-white font-black py-4 px-8 rounded-lg shadow-[0_0_20px_rgba(34,197,94,0.3)] transition-all text-lg uppercase tracking-wider">
                     QUERO ME TORNAR INESQUECÍVEL
                 </a>
             </div>
