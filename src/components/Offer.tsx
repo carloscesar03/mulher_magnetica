@@ -103,17 +103,17 @@ export default function Offer() {
                 
                 <div className="mb-8 border-t border-zinc-800 pt-6">
                     <p className="text-gray-500 line-through text-2xl font-medium mb-1">De R$ 97,00</p>
-                    <p className="text-5xl lg:text-6xl font-black text-white tracking-tight">Por <span className="text-green-400">R$ 17,00</span></p>
+                    <p className="text-5xl lg:text-6xl font-black text-white tracking-tight">Por <span className="text-green-400">R$ 27,00</span></p>
                 </div>
                 
-                <a href="https://lastlink.com/p/CA5B2A829/checkout-payment/" className="btn-pulse-green inline-block w-full text-center bg-green-600 hover:bg-green-700 text-white font-black py-5 px-6 rounded-xl shadow-[0_0_20px_rgba(34,197,94,0.3)] transition-all text-xl uppercase tracking-wide mb-4">
+                <a href="https://lastlink.com/p/CC3029EBC/checkout-payment/" className="btn-pulse-green inline-block w-full text-center bg-green-600 hover:bg-green-700 text-white font-black py-5 px-6 rounded-xl shadow-[0_0_20px_rgba(34,197,94,0.3)] transition-all text-xl uppercase tracking-wide mb-4">
                     QUERO ME TORNAR INESQUECÍVEL
                 </a>
                 
                 <div className="bg-zinc-800/50 p-4 rounded-lg border border-zinc-700/50 mb-4">
                     <p className="text-gray-400 text-sm leading-relaxed">
                         <strong className="text-white block mb-1">Por que tão barato?</strong>
-                        Eu poderia cobrar R$ 97 por isso. Mas decidi fazer essa oferta por R$ 17 porque quero que você conheça meu método sem medo. Sei que depois de ver os resultados, você vai querer meus treinamentos avançados.
+                        Eu poderia cobrar R$ 97 por isso. Mas decidi fazer essa oferta por R$ 27 porque quero que você conheça meu método sem medo. Sei que depois de ver os resultados, você vai querer meus treinamentos avançados.
                     </p>
                 </div>
 
