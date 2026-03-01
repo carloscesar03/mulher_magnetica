@@ -60,7 +60,7 @@ export default function Unlock() {
             </div>
             
             <div className="mt-14 text-center">
-                <a href="https://lastlink.com/p/CA5B2A829/checkout-payment/" className="btn-pulse-green inline-block w-full sm:w-auto text-center bg-green-600 hover:bg-green-700 text-white font-black py-5 px-10 rounded-lg shadow-[0_0_20px_rgba(34,197,94,0.3)] transition-all text-lg uppercase tracking-wide">
+                <a href="https://lastlink.com/p/CC3029EBC/checkout-payment/" className="btn-pulse-green inline-block w-full sm:w-auto text-center bg-green-600 hover:bg-green-700 text-white font-black py-5 px-10 rounded-lg shadow-[0_0_20px_rgba(34,197,94,0.3)] transition-all text-lg uppercase tracking-wide">
                     EU QUERO ESSE PODER
                 </a>
             </div>
