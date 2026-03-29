@@ -5,16 +5,16 @@ export default function Summary() {
         <div className="max-w-3xl mx-auto">
             <h2 className="text-3xl font-black mb-10 text-rose-500 uppercase tracking-widest">RESUMINDO</h2>
             
-            <p className="text-xl font-medium mb-6 text-gray-300">Você pode continuar:</p>
+            <p className="text-xl font-medium mb-6 text-gray-300">Você pode fechar essa página e continuar:</p>
             
-            <div className="space-y-2 text-lg font-light text-gray-400 mb-10">
-                <p>Esperando iniciativa.</p>
-                <p>Tentando entender sinais confusos.</p>
-                <p>Repetindo padrões.</p>
+            <div className="space-y-3 text-lg font-medium text-gray-400 mb-10 text-left max-w-md mx-auto">
+                <p className="flex items-center gap-2"><span className="text-rose-500 font-bold">❌</span> Sendo tratada como "estepe" (lembrada só quando ele quer).</p>
+                <p className="flex items-center gap-2"><span className="text-rose-500 font-bold">❌</span> Aceitando desculpas esfarrapadas para sumiços.</p>
+                <p className="flex items-center gap-2"><span className="text-rose-500 font-bold">❌</span> Sentindo que você nunca é o suficiente.</p>
             </div>
             
-            <p className="text-2xl font-bold text-white mb-12 uppercase">
-                Ou pode aprender a gerar <span className="text-rose-500">impacto emocional consciente.</span>
+            <p className="text-2xl font-bold text-white mb-12 uppercase leading-snug">
+                OU você pode investir o preço de um lanche para <span className="text-rose-500">assumir o controle da sua vida amorosa hoje.</span>
             </p>
             
             <div className="bg-zinc-900 p-8 rounded-2xl border border-zinc-800 mb-12">
