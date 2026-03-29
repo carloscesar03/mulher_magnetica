@@ -33,7 +33,7 @@ export default function Truth() {
             <div className="bg-rose-950/30 border border-rose-900/50 p-6 rounded-xl mb-10">
                 <p className="text-lg text-gray-200 font-medium leading-relaxed">
                     Mas roupas caras e salão não seguram homem nenhum se a sua postura grita insegurança. <br/>
-                    O custo real não é R$ 17,00. <strong className="text-rose-400">O custo real é continuar investindo tempo e emoção em quem não te prioriza.</strong>
+                    O custo real não é R$ 17,00. <strong className="text-rose-400">O custo real é passar mais um final de semana olhando para a tela do celular, com um nó na garganta, aceitando migalhas de atenção enquanto ele vive a vida dele.</strong>
                 </p>
             </div>
             
