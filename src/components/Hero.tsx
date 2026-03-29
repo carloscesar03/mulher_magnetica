@@ -13,7 +13,7 @@ export default function Hero() {
                 </h1>
                 
                 <p className="text-lg sm:text-xl font-light text-gray-300 mb-8 lg:mb-6 leading-relaxed">
-                    Descubra como despertar interesse real, provocar curiosidade e se tornar naturalmente inesquecível.
+                    O segredo para decifrar a mente masculina, virar o jogo e <strong className="text-white font-bold">fazer ele ter um medo absurdo de te perder</strong> (mesmo que hoje ele esteja frio, distante ou visualizando e não respondendo).
                 </p>
 
                 <div className="block lg:hidden relative w-full max-w-md mx-auto mb-10 flex justify-center">
