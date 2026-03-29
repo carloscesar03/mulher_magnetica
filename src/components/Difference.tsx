@@ -15,8 +15,8 @@ export default function Difference() {
             
             <div className="bg-zinc-800/50 p-6 rounded-xl mb-10 border border-rose-500/20">
                 <p className="text-lg text-gray-200 font-medium leading-relaxed">
-                    Você já se perguntou por que a mulher que faz tudo certo muitas vezes termina sozinha, enquanto aquela que parece nem ligar tem a fila de pretendentes? <br/><br/>
-                    <strong className="text-rose-400">A culpa não é sua.</strong> Você foi ensinada a ser a "mulher boazinha". E é exatamente isso que mata a atração.
+                    Você já se perguntou por que você se doa, faz tudo certo e acaba ignorada, enquanto <strong className="text-white">aquela mulher que "não vale nada" e nem se esforça recebe mensagens, presentes e dedicação total?</strong> <br/><br/>
+                    Dói, não é? Mas <strong className="text-rose-400">a culpa não é sua.</strong> Você foi programada para ser a "mulher boazinha". E os homens fogem de mulheres assim.
                 </p>
             </div>
             
