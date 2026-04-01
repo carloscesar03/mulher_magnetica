@@ -17,7 +17,7 @@ export default function Hero() {
                 </p>
 
                 <div className="block lg:hidden relative w-full max-w-md mx-auto mb-10 flex justify-center">
-                    <img src="https://i.postimg.cc/ZKm3qxwk/mockup_combo_1_dobra_Photoroom.webp" 
+                    <img src="/mockup-combo-1a-dobra.webp" 
                          alt="E-book Torne-se a Mulher Que Todo Homem Deseja" 
                          width="600" height="450"
                          fetchPriority="high"
@@ -52,7 +52,7 @@ export default function Hero() {
             </div>
             
             <div className="hidden lg:flex relative w-full max-w-md mx-auto lg:max-w-full justify-center">
-                <img src="https://i.postimg.cc/ZKm3qxwk/mockup_combo_1_dobra_Photoroom.webp" 
+                <img src="/mockup-combo-1a-dobra.webp" 
                      alt="E-book Torne-se a Mulher Que Todo Homem Deseja" 
                      width="800" height="600"
                      fetchPriority="high"
