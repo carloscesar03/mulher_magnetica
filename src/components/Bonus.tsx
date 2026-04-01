@@ -16,7 +16,7 @@ export default function Bonus() {
                     </div>
 
                     <div className="mb-6 flex justify-center">
-                        <img src="https://i.postimg.cc/fTDcYPFR/mockup_bonus_felicidade.webp" alt="Bônus 1" loading="lazy" width="300" height="200" referrerPolicy="no-referrer" className="h-40 object-contain drop-shadow-md hover:scale-105 transition-transform" />
+                        <img src="/mockup-bonus-felicidade.webp" alt="Bônus 1" loading="lazy" width="300" height="200" referrerPolicy="no-referrer" className="h-40 object-contain drop-shadow-md hover:scale-105 transition-transform" />
                     </div>
 
                     <p className="text-rose-600 font-black uppercase tracking-widest text-sm mb-2">BÔNUS 01</p>
@@ -43,7 +43,7 @@ export default function Bonus() {
                     </div>
 
                     <div className="mb-6 flex justify-center">
-                        <img src="https://i.postimg.cc/vHbr5KjQ/mockup_bonus_ansiedade.webp" alt="Bônus 2" loading="lazy" width="300" height="200" referrerPolicy="no-referrer" className="h-40 object-contain drop-shadow-md hover:scale-105 transition-transform" />
+                        <img src="/mockup-bonus-ansiedade.webp" alt="Bônus 2" loading="lazy" width="300" height="200" referrerPolicy="no-referrer" className="h-40 object-contain drop-shadow-md hover:scale-105 transition-transform" />
                     </div>
 
                     <p className="text-rose-600 font-black uppercase tracking-widest text-sm mb-2">BÔNUS 02</p>
