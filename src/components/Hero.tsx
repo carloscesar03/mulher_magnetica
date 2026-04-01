@@ -21,6 +21,7 @@ export default function Hero() {
                          alt="E-book Torne-se a Mulher Que Todo Homem Deseja" 
                          width="600" height="450"
                          fetchPriority="high"
+                         referrerPolicy="no-referrer"
                          className="relative z-10 w-full object-contain drop-shadow-2xl" />
                 </div>
                 
@@ -45,7 +46,7 @@ export default function Hero() {
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-5 h-5 text-green-500"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10"/><path d="m9 12 2 2 4-4"/></svg>
                             <span>Compra 100% Segura & Acesso Imediato</span>
                         </div>
-                        <img src="https://i.postimg.cc/LsVHTKKJ/xxxcompra_Segura_vetor_branco1_1.png" alt="Formas de Pagamento" width="300" height="40" loading="lazy" className="mt-2 opacity-70 h-8 object-contain" />
+                        <img src="https://i.postimg.cc/LsVHTKKJ/xxxcompra_Segura_vetor_branco1_1.png" alt="Formas de Pagamento" width="300" height="40" loading="lazy" referrerPolicy="no-referrer" className="mt-2 opacity-70 h-8 object-contain" />
                     </div>
                 </div>
             </div>
@@ -55,6 +56,7 @@ export default function Hero() {
                      alt="E-book Torne-se a Mulher Que Todo Homem Deseja" 
                      width="800" height="600"
                      fetchPriority="high"
+                     referrerPolicy="no-referrer"
                      className="relative z-10 w-full max-w-lg object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-500" />
             </div>
         </div>
