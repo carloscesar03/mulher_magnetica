@@ -30,9 +30,9 @@ export default function Testimonials() {
                 </p>
 
                 <div className="flex sm:grid sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto overflow-x-auto pb-6 snap-x snap-mandatory scrollbar-hide scroll-smooth">
-                    <img src="https://i.postimg.cc/WbTG0yKR/Dep_Ana_Paula_risco.webp" alt="Depoimento 1" loading="lazy" width="400" height="600" referrerPolicy="no-referrer" className="min-w-[85%] sm:min-w-0 w-full rounded-2xl shadow-md border border-gray-200 hover:shadow-xl transition-shadow object-cover snap-center" />
-                    <img src="https://i.postimg.cc/BQ4T2zyf/Dep_Camila_risco.webp" alt="Depoimento 2" loading="lazy" width="400" height="600" referrerPolicy="no-referrer" className="min-w-[85%] sm:min-w-0 w-full rounded-2xl shadow-md border border-gray-200 hover:shadow-xl transition-shadow object-cover snap-center" />
-                    <img src="https://i.postimg.cc/9FCdykk6/Dep_Carla_risco.webp" alt="Depoimento 3" loading="lazy" width="400" height="600" referrerPolicy="no-referrer" className="min-w-[85%] sm:min-w-0 w-full rounded-2xl shadow-md border border-gray-200 hover:shadow-xl transition-shadow object-cover snap-center" />
+                    <img src="/Dep.AnaPaula-risco.webp" alt="Depoimento 1" loading="lazy" width="400" height="600" referrerPolicy="no-referrer" className="min-w-[85%] sm:min-w-0 w-full rounded-2xl shadow-md border border-gray-200 hover:shadow-xl transition-shadow object-cover snap-center" />
+                    <img src="/Dep.Camila-risco.webp" alt="Depoimento 2" loading="lazy" width="400" height="600" referrerPolicy="no-referrer" className="min-w-[85%] sm:min-w-0 w-full rounded-2xl shadow-md border border-gray-200 hover:shadow-xl transition-shadow object-cover snap-center" />
+                    <img src="/Dep.Carla-risco.webp" alt="Depoimento 3" loading="lazy" width="400" height="600" referrerPolicy="no-referrer" className="min-w-[85%] sm:min-w-0 w-full rounded-2xl shadow-md border border-gray-200 hover:shadow-xl transition-shadow object-cover snap-center" />
                 </div>
             </div>
         </div>
