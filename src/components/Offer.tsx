@@ -1,4 +1,6 @@
 
+
+
 export default function Offer() {
   return (
     <section id="oferta" className="py-20 px-6 bg-zinc-950 relative">
@@ -65,7 +67,7 @@ export default function Offer() {
         <div className="max-w-4xl mx-auto bg-zinc-900 rounded-3xl p-8 lg:p-12 border border-rose-600/30 shadow-[0_0_50px_rgba(225,29,72,0.15)] text-center relative z-10 flex flex-col md:flex-row items-center gap-10">
             
             <div className="w-full md:w-1/2 flex justify-center">
-                <img src="/mockup-combo-secao-oferta-com-bonus.webp" alt="Combo Completo" loading="lazy" width="600" height="450" referrerPolicy="no-referrer" className="w-full max-w-md object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-500" />
+                <img src="https://i.postimg.cc/ZKm3qxwk/mockup_combo_1_dobra_Photoroom.webp" alt="Combo Completo" loading="lazy" width="600" height="450" referrerPolicy="no-referrer" className="w-full max-w-md object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-500" />
             </div>
 
             <div className="w-full md:w-1/2 text-center md:text-left">
