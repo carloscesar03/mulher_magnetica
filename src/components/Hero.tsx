@@ -1,8 +1,7 @@
 
-import mockupCombo from '../assets/hero.webp';
+
 
 export default function Hero() {
-  console.log("mockupCombo src:", mockupCombo);
   return (
     <section className="bg-zinc-950 text-white pt-16 pb-20 px-6 lg:pt-24 lg:pb-32 relative overflow-hidden">
         <div className="absolute top-0 right-0 -mr-32 -mt-32 w-96 h-96 rounded-full bg-rose-600 opacity-10 blur-3xl"></div>
@@ -20,7 +19,7 @@ export default function Hero() {
                 </p>
 
                 <div className="block lg:hidden relative w-full max-w-md mx-auto mb-10 flex justify-center">
-                    <img src={mockupCombo} 
+                    <img src="https://i.postimg.cc/ZKm3qxwk/mockup_combo_1_dobra_Photoroom.webp" 
                          alt="E-book Torne-se a Mulher Que Todo Homem Deseja" 
                          width="600" height="450"
                          className="relative z-10 w-full object-contain drop-shadow-2xl" />
@@ -52,12 +51,12 @@ export default function Hero() {
                 </div>
             </div>
             
-            <div className="hidden lg:flex relative w-full max-w-md mx-auto lg:max-w-full justify-center">
-                <img src={mockupCombo} 
-                     alt="E-book Torne-se a Mulher Que Todo Homem Deseja" 
-                     width="800" height="600"
-                     className="relative z-10 w-full max-w-lg object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-500" />
-            </div>
+                <div className="hidden lg:flex relative w-full max-w-md mx-auto lg:max-w-full justify-center">
+                    <img src="https://i.postimg.cc/ZKm3qxwk/mockup_combo_1_dobra_Photoroom.webp" 
+                         alt="E-book Torne-se a Mulher Que Todo Homem Deseja" 
+                         width="800" height="600"
+                         className="relative z-10 w-full max-w-lg object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-500" />
+                </div>
         </div>
     </section>
   );
