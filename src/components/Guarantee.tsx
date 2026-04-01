@@ -1,4 +1,6 @@
 
+
+
 export default function Guarantee() {
   return (
     <section className="py-16 px-6 bg-white text-center">
@@ -14,7 +16,7 @@ export default function Guarantee() {
                 </p>
             </div>
 
-            <img src="/7dias-garantia-300x300.webp" alt="Garantia de 7 Dias" loading="lazy" width="300" height="300" referrerPolicy="no-referrer" className="w-40 h-40 mb-6 object-contain drop-shadow-lg hover:scale-105 transition-transform duration-300" />
+            <img src="https://i.postimg.cc/fTDcYPFz/7dias_garantia_300x300.webp" alt="Garantia de 7 Dias" loading="lazy" width="300" height="300" referrerPolicy="no-referrer" className="w-40 h-40 mb-6 object-contain drop-shadow-lg hover:scale-105 transition-transform duration-300" />
             
             <h2 className="text-2xl font-black text-zinc-950 mb-4 uppercase tracking-wider">VOCÊ NÃO TEM NADA A PERDER</h2>
             <p className="text-xl font-bold text-rose-600 mb-4">7 dias de garantia incondicional.</p>
