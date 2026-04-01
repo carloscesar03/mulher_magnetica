@@ -31,7 +31,7 @@ export default function Summary() {
             </a>
 
             <div className="flex justify-center mt-2">
-                <img src="https://i.postimg.cc/LsVHTKKJ/xxxcompra_Segura_vetor_branco1_1.png" alt="Segurança" loading="lazy" width="300" height="40" className="h-8 object-contain opacity-70" />
+                <img src="https://i.postimg.cc/LsVHTKKJ/xxxcompra_Segura_vetor_branco1_1.png" alt="Segurança" loading="lazy" width="300" height="40" referrerPolicy="no-referrer" className="h-8 object-contain opacity-70" />
             </div>
         </div>
     </section>
