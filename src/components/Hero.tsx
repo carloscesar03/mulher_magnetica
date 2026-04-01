@@ -11,11 +11,11 @@ export default function Hero() {
             
             <div className="flex flex-col justify-center text-center lg:text-left">
                 <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black leading-tight mb-4 lg:mb-6 tracking-tight uppercase">
-                    TORNE-SE A MULHER <span className="text-rose-500">QUE TODO HOMEM DESEJA</span>
+                    O SEGREDO PARA SE TORNAR A MULHER QUE ELE <span className="text-rose-500">NÃO VAI CONSEGUIR ESQUECER</span>
                 </h1>
                 
                 <p className="text-lg sm:text-xl font-light text-gray-300 mb-8 lg:mb-6 leading-relaxed">
-                    O segredo para decifrar a mente masculina, virar o jogo e <strong className="text-white font-bold">fazer ele ter um medo absurdo de te perder</strong> (mesmo que hoje ele esteja frio, distante ou visualizando e não respondendo).
+                    Um método prático, direto ao ponto e sem joguinhos para despertar o desejo, o respeito e a admiração profunda de qualquer homem.
                 </p>
 
                 <div className="block lg:hidden relative w-full max-w-md mx-auto mb-10 flex justify-center">

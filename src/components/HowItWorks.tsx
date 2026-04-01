@@ -8,32 +8,25 @@ export default function HowItWorks() {
             <div className="grid md:grid-cols-3 gap-8 mb-16">
                 <div className="bg-gray-50 rounded-2xl p-8 border-t-4 border-rose-600 hover:shadow-lg transition-shadow">
                     <span className="text-rose-600 font-black text-5xl opacity-20 block mb-4">01</span>
-                    <h3 className="text-xl font-bold mb-4 text-zinc-950 uppercase">Mentalidade Magnética</h3>
+                    <h3 className="text-xl font-bold mb-4 text-zinc-950 uppercase">Leitura Rápida e Prática</h3>
                     <p className="text-gray-600 leading-relaxed font-medium">
-                        Você aprende a ajustar pequenos comportamentos que mudam completamente a forma como é percebida.
+                        Sem teorias chatas. Um material direto ao ponto para você ler hoje e aplicar hoje mesmo.
                     </p>
                 </div>
                 
                 <div className="bg-gray-50 rounded-2xl p-8 border-t-4 border-rose-600 hover:shadow-lg transition-shadow">
                     <span className="text-rose-600 font-black text-5xl opacity-20 block mb-4">02</span>
-                    <h3 className="text-xl font-bold mb-4 text-zinc-950 uppercase">Comunicação que Desperta Interesse</h3>
-                    <p className="text-gray-600 leading-relaxed font-medium mb-2">
-                        Frases. Timing. Silêncio.
-                    </p>
+                    <h3 className="text-xl font-bold mb-4 text-zinc-950 uppercase">Passo a Passo Claro</h3>
                     <p className="text-gray-600 leading-relaxed font-medium">
-                        Você vai entender o poder do que dizer — e do que não dizer.
+                        Instruções exatas do que fazer e como agir para gerar atração e respeito imediato.
                     </p>
                 </div>
                 
                 <div className="bg-gray-50 rounded-2xl p-8 border-t-4 border-rose-600 hover:shadow-lg transition-shadow">
                     <span className="text-rose-600 font-black text-5xl opacity-20 block mb-4">03</span>
-                    <h3 className="text-xl font-bold mb-4 text-zinc-950 uppercase">Postura de Alto Valor</h3>
-                    <div className="text-gray-600 leading-relaxed font-medium space-y-1 mb-3">
-                        <p>Sem arrogância.</p>
-                        <p>Sem frieza.</p>
-                    </div>
+                    <h3 className="text-xl font-bold mb-4 text-zinc-950 uppercase">Acesso Imediato</h3>
                     <p className="text-gray-600 leading-relaxed font-medium">
-                        Mas com presença suficiente para que ele sinta que pode te perder.
+                        Leia no seu celular, tablet ou computador assim que o pagamento for aprovado.
                     </p>
                 </div>
             </div>

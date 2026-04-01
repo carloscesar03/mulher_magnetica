@@ -27,12 +27,6 @@ export default function Bonus() {
                     
                     <p className="text-gray-600 font-medium italic mb-6">Porque atração começa dentro.</p>
                     
-                    <ul className="space-y-3 mb-8 text-gray-800 font-medium">
-                        <li className="flex items-start"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-5 h-5 text-rose-500 mr-3 shrink-0 mt-0.5"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg> Fortalecimento da autoestima</li>
-                        <li className="flex items-start"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-5 h-5 text-rose-500 mr-3 shrink-0 mt-0.5"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg> Segurança emocional</li>
-                        <li className="flex items-start"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-5 h-5 text-rose-500 mr-3 shrink-0 mt-0.5"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg> Clareza sobre o que você merece</li>
-                    </ul>
-                    
                     <p className="text-xl font-black text-zinc-950 bg-gray-50 p-4 rounded-lg text-center uppercase">
                         Mulheres seguras não imploram.<br/>
                         <span className="text-rose-600">Elas escolhem.</span>
@@ -53,12 +47,6 @@ export default function Bonus() {
                     <p className="text-gray-400 text-sm font-medium mb-6 line-through">Avaliado em R$ 39,90</p>
                     
                     <p className="text-gray-600 font-medium italic mb-6">Porque ansiedade pode destruir uma conexão promissora.</p>
-                    
-                    <ul className="space-y-3 mb-8 text-gray-800 font-medium">
-                        <li className="flex items-start"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-5 h-5 text-rose-500 mr-3 shrink-0 mt-0.5"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg> Técnicas práticas para manter equilíbrio</li>
-                        <li className="flex items-start"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-5 h-5 text-rose-500 mr-3 shrink-0 mt-0.5"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg> Como evitar excesso de mensagens</li>
-                        <li className="flex items-start"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-5 h-5 text-rose-500 mr-3 shrink-0 mt-0.5"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg> Como manter o controle emocional mesmo interessada</li>
-                    </ul>
                     
                     <p className="text-xl font-black text-zinc-950 bg-gray-50 p-4 rounded-lg text-center uppercase">
                         Calma é <span className="text-rose-600">poder.</span>
